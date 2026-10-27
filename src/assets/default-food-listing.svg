@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title description">
+  <title id="title">Food listing placeholder</title>
+  <desc id="description">A plate with a covered serving dish</desc>
+  <rect width="800" height="520" fill="#edf7f0"/>
+  <circle cx="400" cy="260" r="180" fill="#d4ead9"/>
+  <path d="M220 355h360c0-99-81-180-180-180s-180 81-180 180Z" fill="#f5a623"/>
+  <path d="M200 355h400v34H200z" rx="17" fill="#3c8056"/>
+  <path d="M383 158h34v28h-34z" fill="#3c8056"/>
+  <circle cx="400" cy="140" r="17" fill="#3c8056"/>
+  <path d="M270 411h260" stroke="#3c8056" stroke-width="20" stroke-linecap="round"/>
+</svg>
